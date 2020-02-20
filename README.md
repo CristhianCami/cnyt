@@ -1,4 +1,4 @@
-# CNYT lab01
+# CNYT Lab 01
 
 En el laboratorio 01 se realizó la libreria "calculadora", donde se implementaron algunas operaciones básicas de los números complejos,
 entre las cuales tenemos:
