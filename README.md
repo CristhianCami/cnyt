@@ -21,7 +21,7 @@ entre las cuales tenemos:
 
 ##Suma
 
-´´´
+'''
 k = (r[0] + t[0], r[1] + t[1])
-´´´
+'''
 
