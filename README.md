@@ -19,25 +19,25 @@ entre las cuales tenemos:
   
   * _Fase de un número complejo_
 
-## Suma
+## Suma :gem:
 
 ```
 k = (r[0] + t[0], r[1] + t[1])
 ```
 
-## Resta
+## Resta :gem:
 
 ```
 k = (r[0] - t[0], r[1] - t[1])
 ```
 
-## Multiplicación
+## Multiplicación :gem:
 
 ```
 k = (r[0]*t[0] - r[1]*t[1],r[0]*t[1] + r[1]*t[0])
 ```
 
-## División
+## División :gem:
 
 ```
 k = ((r[0]*t[0] + r[1]*t[1])/(t[0]**2+t[1]**2),(r[1]*t[0] - r[0]*t[1])/(t[0]**2+t[1]**2))
