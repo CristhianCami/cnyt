@@ -1,25 +1,25 @@
-#CNYT lab01
+# CNYT lab01
 
 En el laboratorio 01 se realizó la libreria "calculadora", donde se implementaron algunas operaciones básicas de los números complejos,
 entre las cuales tenemos:
   
-  *_Suma_
+  * _Suma_
   
-  *_Resta_
+  * _Resta_
   
-  *_Multiplicación_
+  * _Multiplicación_
   
-  *_División_
+  * _División_
   
-  *_Módulo_
+  * _Módulo_
   
-  *_Conjugado_
+  * _Conjugado_
   
-  *_Conversión entre representación polar y cartesiano_
+  * _Conversión entre representación polar y cartesiano_
   
-  *_Fase de un número complejo_
+  * _Fase de un número complejo_
 
-##Suma
+## Suma
 
 ```
 k = (r[0] + t[0], r[1] + t[1])
