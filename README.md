@@ -1,19 +1,19 @@
-# cnyt lab01
+***# cnyt lab01***
 En el laboratorio 01 se realizó la libreria "calculadora", donde se implementaron algunas operaciones básicas de los números complejos,
 entre las cuales tenemos:
   
-  *Suma
+  *_Suma_
   
-  *Resta
+  *_Resta_
   
-  *Multiplicación
+  *_Multiplicación_
   
-  *División
+  *_División_
   
-  *Módulo
+  *_Módulo_
   
-  *Conjugado
+  *_Conjugado_
   
-  *Conversión entre representación polar y cartesiano
+  *_Conversión entre representación polar y cartesiano_
   
-  *Fase de un número complejo
+  *_Fase de un número complejo_
