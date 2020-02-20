@@ -43,6 +43,6 @@ k = (r[0]*t[0] - r[1]*t[1],r[0]*t[1] + r[1]*t[0])
 k = ((r[0]*t[0] + r[1]*t[1])/(t[0]**2+t[1]**2),(r[1]*t[0] - r[0]*t[1])/(t[0]**2+t[1]**2))
 ```
 
-
-*Para seguir revisando __cada__ una de las funciones*
+:EMOJICODE:
+*Para seguir revisando __cada__ una de las funciones, ingrese al código fuente*:+1::+1:
 
