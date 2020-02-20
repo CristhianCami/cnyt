@@ -43,5 +43,5 @@ k = (r[0]*t[0] - r[1]*t[1],r[0]*t[1] + r[1]*t[0])
 k = ((r[0]*t[0] + r[1]*t[1])/(t[0]**2+t[1]**2),(r[1]*t[0] - r[0]*t[1])/(t[0]**2+t[1]**2))
 ```
 
-*Para seguir revisando __cada__ una de las funciones, ingrese al* código fuente [Código fuente](https://github.com/CristhianCami/cnyt/blob/master/numerosComplejos.py).:+1::+1:
+*Para seguir revisando __cada__ una de las funciones de la calculadora, ingrese al* código fuente [Código fuente](https://github.com/CristhianCami/cnyt/blob/master/numerosComplejos.py).:+1::+1:
 
