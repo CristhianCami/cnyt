@@ -20,5 +20,8 @@ entre las cuales tenemos:
   *_Fase de un número complejo_
 
 ##Suma
-´k = (r[0] + t[0], r[1] + t[1])´
+
+´´´
+k = (r[0] + t[0], r[1] + t[1])
+´´´
 
